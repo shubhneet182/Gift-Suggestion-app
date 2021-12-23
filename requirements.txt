@@ -1,7 +1,6 @@
 uvicorn==0.15.0
 aiofiles==0.6.0
 brotli==1.0.9
-cdecimal==2.3
 ConfigParser==5.2.0
 cryptography==36.0.1
 curio==1.5
