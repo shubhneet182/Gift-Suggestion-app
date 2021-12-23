@@ -24,7 +24,6 @@ keyring==23.4.0
 lockfile==0.12.2
 lxml==4.7.1
 multipart==0.2.4
-mx==3.2
 mypy_extensions==0.4.3
 nacl==0.0.0
 numpy==1.21.5
