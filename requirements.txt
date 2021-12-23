@@ -25,7 +25,6 @@ lockfile==0.12.2
 lxml==4.7.1
 multipart==0.2.4
 mypy_extensions==0.4.3
-nacl==0.0.0
 numpy==1.21.5
 ordereddict==1.1
 orjson==3.6.5
